@@ -1,0 +1,18 @@
+{
+  "name": "phpssh2webclient",
+  "version": "0.0.1",
+  "description": "PHP SSH2 Web Client",
+  "main": "index.php",
+  "dependencies": {
+    "xterm": "^5.0.0"
+  },
+  "devDependencies": {
+    "xterm-addon-attach": "^0.7.0",
+    "xterm-addon-fit": "^0.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Joaquin Anton",
+  "license": "MIT"
+}
